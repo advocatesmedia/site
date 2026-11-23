@@ -1,0 +1,19 @@
+# Advocates Media
+
+> Advocates Media helps small and mid-sized businesses in Dallas–Fort Worth, Texas get ready for AI-assisted search, booking and payment ("agent-ready"): accurate listings, clear services and pricing, online booking and online payments.
+
+- Location: 539 W. Commerce Street, Suite 6896, Dallas, TX 75208
+- Phone: 469-331-6003
+- Email: info@advocatesmedia.com
+- Founder: Scott Fischer (https://www.linkedin.com/in/scottfisch/)
+- Service area: Dallas–Fort Worth
+- Status: working with founding clients now; full launch planned for early 2027. Pricing is quoted per business.
+
+## Services
+- Ready Business Check: one-time review of whether AI assistants can find, read, book and pay a business, plus outage readiness; ends with a prioritized fix list.
+- Agent-Ready Setup: one-time setup of Google Business Profile, listings, services and pricing, FAQs, online quote/booking and online payments.
+- Ready Retainer (early 2027): monthly upkeep and AI-visibility tracking.
+
+## Pages
+- [Home](https://advocatesmedia.com/): services, the four questions, FAQ, contact
+- [Privacy](https://advocatesmedia.com/privacy.html)
