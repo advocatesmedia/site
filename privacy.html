@@ -17,4 +17,14 @@
 <p>Questions or requests to delete your information: <a href="mailto:info@advocatesmedia.com">info@advocatesmedia.com</a> · 469-331-6003 · 539 W. Commerce Street, Suite 6896, Dallas, TX 75208.</p>
 </main>
 <iframe id="audio_iframe" title="Ask any questions" src="https://widget.synthflow.ai/widget/v3/30713550-620a-4793-88e1-4cc5f7979670/1758128720158x224546026837387550" allow="microphone" width="400px" height="550px" scrolling="no" style="position: fixed; bottom: 0; right: 0; background: transparent; border: none; z-index: 999999;"></iframe>
+<script>
+/* Keep the assistant frame small until someone taps it, so it doesn't block taps on the page. */
+(function(){var f=document.getElementById('audio_iframe');if(!f)return;
+var small=function(){f.style.height='110px';f.style.width='min(400px,100vw)';};
+var big=function(){f.style.height='min(550px,100vh)';f.style.width='min(400px,100vw)';};
+small();
+window.addEventListener('blur',function(){setTimeout(function(){if(document.activeElement===f)big();},0);});
+document.addEventListener('pointerdown',small);
+})();
+</script>
 </body></html>
